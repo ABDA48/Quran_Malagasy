@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/home"
+    android:icon="@drawable/ic_edit"
+    android:title="Home"/>
+    <item android:id="@+id/prayer"
+        android:icon="@drawable/ic_edit"
+        android:title="Prayer Time"/>
+    <item android:id="@+id/Qibla"
+        android:icon="@drawable/ic_edit"
+        android:title="Qibla"/>
+    <item android:id="@+id/tasbih"
+        android:icon="@drawable/ic_edit"
+        android:title="Tasbih"/>
+
+</menu>

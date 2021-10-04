@@ -1,0 +1,36 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+<style name="numberAyat">
+    <item name="android:layout_gravity">center</item>
+    <item name="android:background">@drawable/borderayat</item>
+    <item name="android:gravity">center</item>
+    <item name="android:textSize">12sp</item>
+</style>
+<style name="peace">
+    <item name="android:textSize">20dp</item>
+    <item name="android:textColor">@color/colorwhite</item>
+    <item name="android:textStyle">bold</item>
+
+</style>
+    <style name="toolbar" parent="AppTheme">
+        <item name="android:background">@color/colorPrimary</item>
+    </style>
+    <style name="img">
+        <item name="android:layout_width">75dp</item>
+        <item name="android:layout_height">75dp</item>
+    </style>
+    <style name="setting">
+        <item name ="android:textSize">20dp</item>
+        <item name ="android:padding">10dp</item>
+    <item name = "android:textStyle">bold</item>
+<item name ="android:textColor">@color/colorPrimary</item>
+
+    </style>
+</resources>

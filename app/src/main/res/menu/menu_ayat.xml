@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="@string/go_to_setting"
+        android:icon="@drawable/ic_settings"
+        android:id="@+id/setting"
+        />
+    <item android:title="@string/go_to_reshearch"
+        android:icon="@drawable/ic_star_"
+        android:id="@+id/ratting"
+
+        />
+    <item android:title="@string/about"
+        android:icon="@drawable/ic_about"
+        android:id="@+id/about"
+        />
+    <item android:title=""
+        android:icon="@drawable/ic_keyboard_"
+        android:id="@+id/go"
+        app:showAsAction="always|collapseActionView"
+        />
+    <item android:title=""
+        android:icon="@drawable/ic_download"
+        android:id="@+id/download"
+        app:showAsAction="always|collapseActionView"
+        />
+
+    <item android:title=""
+        android:icon="@drawable/ic_jump"
+        android:id="@+id/jump"
+        app:showAsAction="always|collapseActionView"
+
+        />
+
+
+</menu>
